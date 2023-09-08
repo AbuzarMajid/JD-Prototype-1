@@ -118,23 +118,31 @@ def display_messages(messages):
 if not hasattr(st.session_state, 'generate_pressed'):
     st.session_state.generate_pressed = False
 
+# if not hasattr(st.session_state, 'key_information'):
+#     st.session_state.key_information = False
+
 if role_title and job_description:
     if not st.session_state.generate_pressed:
         key_information = llm.predict(prompt)
-
-        if st.button("GENERATE JOB DESCRIPTION", key = "gen1"):
+        
+        if st.button("GENERATE JOB DESCRIPTION", key="gen1"):
 
             st.session_state.generate_pressed = True
             st.session_state.messages = []
             st.session_state.messages.append({"sender": "user", "message": f"Job Role: {role_title}, Job Description: {job_description}"})
             conversation.write(display_messages(st.session_state.messages))
+            
+            # Set the key_information in session state
+            st.session_state.key_information = key_information
+            
             with open('CONTEXT.txt', "w", encoding="utf-8") as f:
                 f.write(f"Job Role: {role_title}\n\njob_description: {job_description}\n\nJob Description Main Points: \n{key_information}")
+
 
     # Rest of the code continues to run based on user input
     if st.session_state.generate_pressed:
         llm1 = ChatOpenAI(temperature=0, model="gpt-3.5-turbo", max_tokens=1000)
-        Questions = llm.predict(key_information + "\nGenerate the questions regarding any main point, skills and tools that you dont find in the job description.")
+        Questions = llm.predict(st.session_state.key_information + "\nGenerate the questions regarding any main point, skills and tools that you dont find in the job description.")
 
 
         #print(Questions)
