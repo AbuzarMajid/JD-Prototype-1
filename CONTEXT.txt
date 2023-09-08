@@ -1,0 +1,53 @@
+Job Role: data Engineer
+
+job_description: Data Engineer     My name is Bill Stevens and I have a new contract to hire Data Engineer opportunity available for a major firm that has offices in Bethlehem, Pennsylvania, Holmdel, New Jersey and Lower Manhattan that could be of interest to you, please review my specification below and I am available at any time to speak with you so please feel free to call me. The work schedule will be a hybrid one, three days a week in the office and two days remote in either one of the firms offices. The ideal candidate should also possess a green card or be of citizenship.     This position pays $90.00 per hour on a w-2 hourly basis or $100.00 per hour on a Corp basis. The Corp rate is for independent contractors only and not third-party firms.     Photo ID's will be required prior to any interviews being scheduled. This is due to multiple instances the firm has encountered where the candidate who interviews for the role is not the same person who shows up on assignment. Also, please keep in mind that any candidate who is asked for an interview, they will be required to be on video. Any candidate who cannot attend a video interview will be disqualified.     Job Description:  Client is seeking an experienced Data Engineer to be part of our Data and Analytics organization. You will be playing a key role in building and delivering best-in-class data and analytics solutions aimed at creating value and impact for the organization and our customers. As a member of the data engineering team, you will help developing and delivery of Data Products with quality backed by best-in-class engineering. You will collaborate with analytics partners, business partners and IT partners to enable the solutions.     Responsibilities:  Architect, build, and maintain scalable data & analytics pipelines for machine learning models, reports, dashboard, and other analytics solutions.  Design, develop and implement low-latency, high-availability, and performance data applications and recommend & implement innovative engineering solutions.  Design, develop, test and debug code in Java, Python, and other languages as per Client standards to improve the business processes.  Design and develop code to create reliable and scalable data pipelines which can support various types of consumers including products such as Customer Data Platform.  Build and maintain integrations with different SaaS tools as required to activate customer centric data and insights.  Apply and provide guidance on software engineering techniques such as design patterns, code refactoring, framework design, code reusability, code versioning, performance optimization, and continuous build and Integration (CI/CD) to make the data analytics team robust and efficient.  Performing all job functions consistent with Client policies and procedures, including those which govern handling PHI and PII.  Collaborate with cross-functional teams to identify highest value activities for Advanced Data and Analytics group.  Work closely with various IT and business teams to understand systems opportunities and constraints for maximally utilizing Client Enterprise Data Infrastructure.  Develop relationships with business team members by being proactive, displaying an increasing understanding of the business processes and by recommending innovative solutions.  Communicate project output in terms of customer value, business objectives, and product opportunity.     Qualifications:  5+ years of experience with Bachelors / master’s degree in computer science, Engineering, Applied mathematics or related field.  Extensive hands-on development experience in one or more of programming languages such as Java or Python and familiarity with SQL and bash.  Extensive experience in all stages of software development and expertise in applying software engineering best practices.  Familiarity with building and deploying scalable data pipelines to develop and deploy Data Solutions using Python, SQL, PySpark, Java.  Familiar in designing and developing backend RESTful Webservices (APIs) using Microservices architecture to generate JSON/XML response using Java spring or Python.  Experience in developing APIs using Python or Java to operationalize Machine Learning models and data assets.  Experience with any of the backend frameworks such as Spring Integration, Spring MVC etc.  Experience in integrating database with backend layer using Spring DAO or Python equivalent JPA frameworks.  Familiarity with API Gateways such as APIGEE to secure webservice endpoints.  Familiarity with concurrency and parallelism.  Extensive Experience in SQL query and optimization.  Familiarity with Data pipelines and Client development cycle.  Experience in creating and configuring continuous integration/continuous deployment using pipelines to build and deploy applications in various environments and use best practices for DevOps to migrate code to Production environment.  Familiarity with creating and modifying tables to store data in OLAP database such as Hive and utilize data warehouse platforms such as AWS Redshift, Databricks.  Ability to investigate and repair application defects regardless of component: front-end, business logic, middleware, or database to improve code quality, consistency, delays and identify any bottlenecks or gaps in the implementation.  Experience with unit testing frameworks such as Mockito, Powermock and Junit for test driven development approach for logic implemented in Java. Ability to write unit tests in python using unit test library such as pytest.     Additional Qualifications (nice to have):  Have experience with building Customer 360 solution either in data warehouse or using products such as Customer Data Platform.  Experience in building data pipelines supporting customer centric marketing use cases and experience building integrations with marketing and engagement tools to activate the customer insights.  Familiarity with identity resolution concept and familiarity with either building custom identity resolution solutions or using identity resolution product.     The interview process will include an initial telephone or Zoom screening.     Please let me know your interest for this position, availability to interview and start for this position along with a copy of your recent resume or please feel free to call me at any time with any questions.     Regards  Bill Stevens  Senior Technical Recruiter  PRI Technology  Denville, New Jersey 07834  1-973-732-5454 x21  Bill.Stevens@PRITechnology.com  www.PriTechnology.com
+
+Job Description Main Points: 
+1. Role Definition: The role is for a Data Engineer who will be part of the Data and Analytics organization. The candidate will be responsible for building and delivering data and analytics solutions for the organization and its customers.
+
+2. Key Responsibilities: 
+   - Architect, build, and maintain scalable data & analytics pipelines for machine learning models, reports, dashboard, and other analytics solutions.
+   - Design, develop and implement low-latency, high-availability, and performance data applications.
+   - Design and develop code to create reliable and scalable data pipelines.
+   - Build and maintain integrations with different SaaS tools.
+   - Collaborate with cross-functional teams to identify highest value activities for Advanced Data and Analytics group.
+
+3. Experience: 
+   - 5+ years of experience with Bachelors / master’s degree in computer science, Engineering, Applied mathematics or related field.
+   - Extensive hands-on development experience in one or more of programming languages such as Java or Python and familiarity with SQL and bash.
+   - Experience in developing APIs using Python or Java to operationalize Machine Learning models and data assets.
+   - Experience with any of the backend frameworks such as Spring Integration, Spring MVC etc.
+   - Experience in creating and configuring continuous integration/continuous deployment using pipelines to build and deploy applications in various environments.
+
+4. Education and Certifications: A Bachelor's or Master's degree in Computer Science, Engineering, Applied Mathematics or a related field is required.
+
+5. Must have skills: 
+   - Java or Python programming
+   - SQL and bash
+   - Backend frameworks such as Spring Integration, Spring MVC
+   - Continuous integration/continuous deployment
+
+6. Good to have skills: 
+   - Experience with building Customer 360 solution
+   - Experience in building data pipelines supporting customer centric marketing use cases
+   - Familiarity with identity resolution concept
+
+7. Growth Opportunities: The job description does not provide specific information about growth opportunities within the organization.
+
+8. Tools and Software: The candidate should be familiar with Java, Python, SQL, bash, Spring Integration, Spring MVC, and continuous integration/continuous deployment tools.
+
+9. Budget and Compensation: The position pays $90.00 per hour on a w-2 hourly basis or $100.00 per hour on a Corp basis.
+
+10. Job Functions: The job description falls under Data-Related (Data Engineer / Data Architect).
+
+11. Data Science and Analytics: The job description mentions data analysis, data mining, data visualization, big data technologies, and data processing, engineering, and storage.
+
+12. Seniority Level: The job description does not specify the seniority level, but it requires at least 5+ years of experience, suggesting a mid-level, hands-on role.
+
+13. Work Environment: Hybrid (partly remote)
+
+14. Acceptable Work Location/s: The firm has offices in Bethlehem, Pennsylvania, Holmdel, New Jersey and Lower Manhattan.
+
+15. Preferred Time Zone Overlap: Not specified.
+
+16. Industry: Not specified.
