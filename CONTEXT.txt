@@ -1,53 +1,296 @@
-Job Role: data Engineer
+Job Role: Data Engineer
 
-job_description: Data Engineer     My name is Bill Stevens and I have a new contract to hire Data Engineer opportunity available for a major firm that has offices in Bethlehem, Pennsylvania, Holmdel, New Jersey and Lower Manhattan that could be of interest to you, please review my specification below and I am available at any time to speak with you so please feel free to call me. The work schedule will be a hybrid one, three days a week in the office and two days remote in either one of the firms offices. The ideal candidate should also possess a green card or be of citizenship.     This position pays $90.00 per hour on a w-2 hourly basis or $100.00 per hour on a Corp basis. The Corp rate is for independent contractors only and not third-party firms.     Photo ID's will be required prior to any interviews being scheduled. This is due to multiple instances the firm has encountered where the candidate who interviews for the role is not the same person who shows up on assignment. Also, please keep in mind that any candidate who is asked for an interview, they will be required to be on video. Any candidate who cannot attend a video interview will be disqualified.     Job Description:  Client is seeking an experienced Data Engineer to be part of our Data and Analytics organization. You will be playing a key role in building and delivering best-in-class data and analytics solutions aimed at creating value and impact for the organization and our customers. As a member of the data engineering team, you will help developing and delivery of Data Products with quality backed by best-in-class engineering. You will collaborate with analytics partners, business partners and IT partners to enable the solutions.     Responsibilities:  Architect, build, and maintain scalable data & analytics pipelines for machine learning models, reports, dashboard, and other analytics solutions.  Design, develop and implement low-latency, high-availability, and performance data applications and recommend & implement innovative engineering solutions.  Design, develop, test and debug code in Java, Python, and other languages as per Client standards to improve the business processes.  Design and develop code to create reliable and scalable data pipelines which can support various types of consumers including products such as Customer Data Platform.  Build and maintain integrations with different SaaS tools as required to activate customer centric data and insights.  Apply and provide guidance on software engineering techniques such as design patterns, code refactoring, framework design, code reusability, code versioning, performance optimization, and continuous build and Integration (CI/CD) to make the data analytics team robust and efficient.  Performing all job functions consistent with Client policies and procedures, including those which govern handling PHI and PII.  Collaborate with cross-functional teams to identify highest value activities for Advanced Data and Analytics group.  Work closely with various IT and business teams to understand systems opportunities and constraints for maximally utilizing Client Enterprise Data Infrastructure.  Develop relationships with business team members by being proactive, displaying an increasing understanding of the business processes and by recommending innovative solutions.  Communicate project output in terms of customer value, business objectives, and product opportunity.     Qualifications:  5+ years of experience with Bachelors / master’s degree in computer science, Engineering, Applied mathematics or related field.  Extensive hands-on development experience in one or more of programming languages such as Java or Python and familiarity with SQL and bash.  Extensive experience in all stages of software development and expertise in applying software engineering best practices.  Familiarity with building and deploying scalable data pipelines to develop and deploy Data Solutions using Python, SQL, PySpark, Java.  Familiar in designing and developing backend RESTful Webservices (APIs) using Microservices architecture to generate JSON/XML response using Java spring or Python.  Experience in developing APIs using Python or Java to operationalize Machine Learning models and data assets.  Experience with any of the backend frameworks such as Spring Integration, Spring MVC etc.  Experience in integrating database with backend layer using Spring DAO or Python equivalent JPA frameworks.  Familiarity with API Gateways such as APIGEE to secure webservice endpoints.  Familiarity with concurrency and parallelism.  Extensive Experience in SQL query and optimization.  Familiarity with Data pipelines and Client development cycle.  Experience in creating and configuring continuous integration/continuous deployment using pipelines to build and deploy applications in various environments and use best practices for DevOps to migrate code to Production environment.  Familiarity with creating and modifying tables to store data in OLAP database such as Hive and utilize data warehouse platforms such as AWS Redshift, Databricks.  Ability to investigate and repair application defects regardless of component: front-end, business logic, middleware, or database to improve code quality, consistency, delays and identify any bottlenecks or gaps in the implementation.  Experience with unit testing frameworks such as Mockito, Powermock and Junit for test driven development approach for logic implemented in Java. Ability to write unit tests in python using unit test library such as pytest.     Additional Qualifications (nice to have):  Have experience with building Customer 360 solution either in data warehouse or using products such as Customer Data Platform.  Experience in building data pipelines supporting customer centric marketing use cases and experience building integrations with marketing and engagement tools to activate the customer insights.  Familiarity with identity resolution concept and familiarity with either building custom identity resolution solutions or using identity resolution product.     The interview process will include an initial telephone or Zoom screening.     Please let me know your interest for this position, availability to interview and start for this position along with a copy of your recent resume or please feel free to call me at any time with any questions.     Regards  Bill Stevens  Senior Technical Recruiter  PRI Technology  Denville, New Jersey 07834  1-973-732-5454 x21  Bill.Stevens@PRITechnology.com  www.PriTechnology.com
+job_description: Our Purpose     We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.     Title And Summary     Senior Data Engineer     Job Title     Senior Data Engineer- Data & Services     As a Senior Data Engineer, you will be developing new services and data pipelines for the success of the commercial technology integration of Dynamic Yield with Mastercard Data & Services and other Mastercard products!     Dynamic Yield is the newest addition to Mastercard’s existing suite of services. It is a state-of-the-art software-as-a-service (SaaS) personalization platform and decision engine company that helps businesses deliver digital customer experiences that are personalized, optimized, and synchronized across any touchpoints.     You will play a significant role in designing, developing, and commercializing new services focused on product synergies across MA data and Services and the Dynamic yield products. These synergies will help businesses of all sizes deliver individualized product recommendations, offers, and content based on a range of factors, including past purchases, page views, time of day, current store traffic, and trending products – all in real time to their customers.     As an international business, the software capabilities you design for Mastercard will operate at a massive scale requiring a focus on performance, security, and reliability.     Role     As Single-threaded owner monitor objectives for your teams to align with sprint goals and priorities. Develop an overall strategic technical plan and create architecture proposals based on identified solution gaps. As a recognized subject matter expert, lead planning, design, and implementation of technical solutions Be a significant, hands-on contributor to the team to plan, design, and develop data pipelines using Python. Design, implement, and continuously expand data pipelines by performing extraction, transformation, and loading activities Deliver code with exceptional quality and security that operates at scale. Perform code reviews, and retrospectives, and manage the acceptance of Pull Requests using Git. Collaborate with TPMs, PM-Ts, and product owners to bring to life amazing new service capabilities. Coach your team in engineering best practices, including 12-factor app design. Coach your team on Agile practices, including Daily Scrums, retrospectives, planning, and grooming sessions, to operate and thrive as a high-performing team. Ensure that systems your team creates comply with Mastercard engineering best practices and governance models, including security, operations, and Enterprise Architecture requirements.     All About You     You have experience leading the development of data pipelines using Python. You have experience using Big Data storage technologies such as Hadoop, Hive, Apache Spark, and Apache Nifi and delivering solutions that leverage them on a global scale. You have strong knowledge and understanding of data-warehousing and data-modeling techniques You have experience developing and maintaining data pipelines using ETL processes. You have experience using storage technologies such as PostgreSQL and delivering solutions that leverage them on a global scale You are passionate about the art of delivering the highest quality software to customers and doing the right thing. You have excellent communication skills with both technical and non-technical people. You have the ability to be self-started, quickly learn and implement new technologies, frameworks, and tools and support multiple concurrent activities, and interface with external/internal resources, working as a member of a matrix-based diverse and geographically distributed project team.     In the US, Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law. If you require accommodations or assistance to complete the online application process, please contact reasonable_accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.     Corporate Security Responsibility     Responsibilities     All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must     Abide by Mastercard’s security policies and practices; Ensure the confidentiality and integrity of the information being accessed; Report any suspected information security violation or breach, and Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.     Pay Ranges     Arlington, Virginia: $129,000 - $199,000 USD 
 
 Job Description Main Points: 
-1. Role Definition: The role is for a Data Engineer who will be part of the Data and Analytics organization. The candidate will be responsible for building and delivering data and analytics solutions for the organization and its customers.
+Answered Questions:
+1. Role Definition: Can you please provide a brief overview of the role we're looking to fill?Make a summary of overall job description for that.
+Answer: The role is for a Senior Data Engineer who will be responsible for developing new services and data pipelines for the integration of Dynamic Yield with Mastercard Data & Services and other Mastercard products. The engineer will play a significant role in designing, developing, and commercializing new services focused on product synergies across MA data and Services and the Dynamic yield products.
 
-2. Key Responsibilities: 
-   - Architect, build, and maintain scalable data & analytics pipelines for machine learning models, reports, dashboard, and other analytics solutions.
-   - Design, develop and implement low-latency, high-availability, and performance data applications.
-   - Design and develop code to create reliable and scalable data pipelines.
-   - Build and maintain integrations with different SaaS tools.
-   - Collaborate with cross-functional teams to identify highest value activities for Advanced Data and Analytics group.
+2. Key Responsibilities: What are the top 3-5 key responsibilities for this role?
+Answer: 
+- Monitor objectives for teams and align them with sprint goals and priorities.
+- Develop an overall strategic technical plan and create architecture proposals.
+- Lead planning, design, and implementation of technical solutions.
+- Plan, design, and develop data pipelines using Python.
+- Collaborate with TPMs, PM-Ts, and product owners to bring new service capabilities to life.
 
-3. Experience: 
-   - 5+ years of experience with Bachelors / master’s degree in computer science, Engineering, Applied mathematics or related field.
-   - Extensive hands-on development experience in one or more of programming languages such as Java or Python and familiarity with SQL and bash.
-   - Experience in developing APIs using Python or Java to operationalize Machine Learning models and data assets.
-   - Experience with any of the backend frameworks such as Spring Integration, Spring MVC etc.
-   - Experience in creating and configuring continuous integration/continuous deployment using pipelines to build and deploy applications in various environments.
+3. Experience(make a list if more than 1): What specific skills and experiences are essential for this role?
+Answer: 
+- Experience leading the development of data pipelines using Python.
+- Experience using Big Data storage technologies such as Hadoop, Hive, Apache Spark, and Apache Nifi.
+- Strong knowledge and understanding of data-warehousing and data-modeling techniques.
+- Experience developing and maintaining data pipelines using ETL processes.
+- Experience using storage technologies such as PostgreSQL.
 
-4. Education and Certifications: A Bachelor's or Master's degree in Computer Science, Engineering, Applied Mathematics or a related field is required.
+4. Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer: Not provided.
 
-5. Must have skills: 
-   - Java or Python programming
-   - SQL and bash
-   - Backend frameworks such as Spring Integration, Spring MVC
-   - Continuous integration/continuous deployment
+5. What are the must have skills for this role?(not more than 4)
+Answer: 
+- Strong experience in developing data pipelines using Python.
+- Knowledge of Big Data storage technologies such as Hadoop, Hive, Apache Spark, and Apache Nifi.
+- Understanding of data-warehousing and data-modeling techniques.
+- Experience with ETL processes.
 
-6. Good to have skills: 
-   - Experience with building Customer 360 solution
-   - Experience in building data pipelines supporting customer centric marketing use cases
-   - Familiarity with identity resolution concept
+6. What are the good to have skills for this role?(not more than 2)
+Answer: Not provided.
 
-7. Growth Opportunities: The job description does not provide specific information about growth opportunities within the organization.
+7. Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer: Not provided.
 
-8. Tools and Software: The candidate should be familiar with Java, Python, SQL, bash, Spring Integration, Spring MVC, and continuous integration/continuous deployment tools.
+8. Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer: Not provided.
 
-9. Budget and Compensation: The position pays $90.00 per hour on a w-2 hourly basis or $100.00 per hour on a Corp basis.
+9. Budget and Compensation: What is the budget for this position? What is the proposed salary range?
+Answer: The proposed salary range for this position in Arlington, Virginia is $129,000 - $199,000 USD.
 
-10. Job Functions: The job description falls under Data-Related (Data Engineer / Data Architect).
+10. Technical Job Functions: What are the technical job functions related to this role?
+Answer: The technical job functions related to this role include designing, developing, and commercializing new services, planning and implementing technical solutions, and developing data pipelines using Python.
 
-11. Data Science and Analytics: The job description mentions data analysis, data mining, data visualization, big data technologies, and data processing, engineering, and storage.
+11. Project and Task Management: Does this role include project management and require the use of different project management methodologies such as scrum, sprint, kanban?
+Answer: Not provided.
 
-12. Seniority Level: The job description does not specify the seniority level, but it requires at least 5+ years of experience, suggesting a mid-level, hands-on role.
+12. Seniority Level(Suggest on the basis of description if not provided explicitly): What is the seniority level of this role?
+Answer: Senior-level, hands-on.
 
-13. Work Environment: Hybrid (partly remote)
+13. Work Environment(you can select more than 1): What is the work environment?
+Answer: Not provided.
 
-14. Acceptable Work Location/s: The firm has offices in Bethlehem, Pennsylvania, Holmdel, New Jersey and Lower Manhattan.
+14. Acceptable Work Location/s: What are the acceptable work locations?
+Answer: Not provided.
 
-15. Preferred Time Zone Overlap: Not specified.
+15. Which specific industry does the role belong to?
+Answer: Not provided.
 
-16. Industry: Not specified.
+Unanswered Questions:
+2. Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+5. What are the must have skills for this role?(not more than 4)
+6. What are the good to have skills for this role?(not more than 2)
+7. Growth Opportunities: What growth opportunities are available for this role within the organization?
+8. Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+13. Work Environment(you can select more than 1): What is the work environment?
+14. Acceptable Work Location/s: What are the acceptable work locations?
+15. Which specific industry does the role belong to?
+
+Open-ended Questions:
+16. Question: Are there any specific Big Data frameworks or technologies that the candidate should be familiar with?
+17. Question: Are there any specific data modeling techniques or methodologies that the candidate should be familiar with?
+18. Question: Are there any specific ETL tools or processes that the candidate should be experienced in?
+19. Question: Are there any specific Agile practices or methodologies that the candidate should be familiar with?
+20. Question: Are there any specific security, operations, or governance models that the candidate should be aware of?
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer:Hadoop, Hive, Apache Spark, and Apache Nifi
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer:Hadoop, Hive, Apache Spark, and Apache Nifi
+
+
+Question:Work Environment(you can select more than 1): What is the work environment?
+Answer:remote
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer:Hadoop, Hive, Apache Spark, and Apache Nifi
+
+
+Question:Work Environment(you can select more than 1): What is the work environment?
+Answer:remote
+
+
+Question:Acceptable Work Location/s: What are the acceptable work locations?
+Answer:usa
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer:Hadoop, Hive, Apache Spark, and Apache Nifi
+
+
+Question:Work Environment(you can select more than 1): What is the work environment?
+Answer:remote
+
+
+Question:Acceptable Work Location/s: What are the acceptable work locations?
+Answer:usa
+
+
+Question:Which specific industry does the role belong to?
+Answer:finance
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer:Hadoop, Hive, Apache Spark, and Apache Nifi
+
+
+Question:Work Environment(you can select more than 1): What is the work environment?
+Answer:remote
+
+
+Question:Acceptable Work Location/s: What are the acceptable work locations?
+Answer:usa
+
+
+Question:Which specific industry does the role belong to?
+Answer:finance
+
+
+Question:Question: Are there any specific Big Data frameworks or technologies that the candidate should be familiar with?
+Answer:no
+
+
+Question:Education and Certifications: What educational qualifications or certifications are required or desirable for this role?
+Answer:Bachelors degree in CS
+
+
+Question:What are the must have skills for this role?(not more than 4)
+Answer:python, LSTM, NLP, Bloom
+
+
+Question:What are the good to have skills for this role?(not more than 2)
+Answer:Cloud
+
+
+Question:Growth Opportunities: What growth opportunities are available for this role within the organization?
+Answer:You can become a lead engineer within an year
+
+
+Question:Tools and Software: Are there any specific tools, software, or equipment that the candidate should be familiar with?
+Answer:Hadoop, Hive, Apache Spark, and Apache Nifi
+
+
+Question:Work Environment(you can select more than 1): What is the work environment?
+Answer:remote
+
+
+Question:Acceptable Work Location/s: What are the acceptable work locations?
+Answer:usa
+
+
+Question:Which specific industry does the role belong to?
+Answer:finance
+
+
+Question:Question: Are there any specific Big Data frameworks or technologies that the candidate should be familiar with?
+Answer:no
+
