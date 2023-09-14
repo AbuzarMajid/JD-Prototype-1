@@ -12,8 +12,8 @@ load_dotenv("C:\\Users\\abuza\\Desktop\\jobd\\api.env")
 API_KEY = os.getenv("API_KEY")
 os.environ['OPENAI_API_KEY'] = API_KEY
 llm = ChatOpenAI(temperature=0, model="text-davinci-003", max_tokens=500)
-st.title("Job Description Generator")
-st.sidebar.subheader("Chat")
+st.title("AI Powered Job Description Generator")
+st.sidebar.subheader("Chat History")
 
 conversation = st.sidebar.empty()
 
@@ -21,12 +21,13 @@ if not hasattr(st.session_state, "questions"):
      st.session_state.questions = False
 
 # getiing inital
-role_title = st.text_input("Job Role", key="job role")
+role_title = st.text_input("Role Title", key="job role", placeholder="Enter your Role Title")
 if role_title:
     with st.chat_message("User"):
         st.markdown(f"Job Role: {role_title}")
 
-job_description = st.text_input("Job Description", key="job description")
+        
+job_description = st.text_area("Job Description", key="job description", placeholder="Enter your raw Job Description", height=400)
 job_description = job_description.rstrip(".")
 if job_description:
     with st.chat_message("User"):

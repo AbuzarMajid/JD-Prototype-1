@@ -1,5 +1,3 @@
-import re
-
 def unansques(response):
     lines = response.split('\n')
 
