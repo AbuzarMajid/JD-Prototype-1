@@ -1,19 +1,31 @@
 import re
-def get_unaswered_questions(response):
-        unanswered_pattern = r"Unanswered Questions:(.*?)Open-ended Questions:"
-        open_ended_pattern = r"Open-ended Questions:(.*?)$"
 
-    # Use re.findall to extract the questions
-        unanswered_questions = re.findall(unanswered_pattern, response, re.DOTALL)[0].strip().split('\n')
-        open_ended_questions = re.findall(open_ended_pattern, response, re.DOTALL)[0].strip().split('\n')
+def unansques(response):
+    lines = response.split('\n')
 
-    # Remove leading numbers and whitespace from each question
-        unanswered_questions = [re.sub(r"^\d+\.\s*", "", q.strip()) for q in unanswered_questions]
-        open_ended_questions = [re.sub(r"^\d+\.\s*", "", q.strip()) for q in open_ended_questions]
+# Initialize variables to store the extracted parts
+    unanswered_questions = []
+    open_ended_questions = []
 
-        questions_asked = unanswered_questions + open_ended_questions
+    # Flag to identify the section being processed
+    current_section = None
 
-        return questions_asked
+    # Loop through the lines and extract the relevant sections
+    for line in lines:
+        if line.startswith("Unanswered Questions:"):
+            current_section = "Unanswered Questions"
+        elif line.startswith("Open-ended Questions:"):
+            current_section = "Open-ended Questions"
+        elif current_section:
+            # Append the lines to the appropriate section
+            if line.strip():
+                if current_section == "Unanswered Questions":
+                    unanswered_questions.append(line.strip())
+                elif current_section == "Open-ended Questions":
+                    open_ended_questions.append(line.strip())
+
+    comb = unanswered_questions + open_ended_questions
+    return comb
     
 def questions_dict(self, unanswered_questions):
         ques_dict = {}
