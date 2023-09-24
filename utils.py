@@ -4,7 +4,7 @@ def unansques(response):
 # Initialize variables to store the extracted parts
     unanswered_questions = []
     open_ended_questions = []
-
+    total_question = []
     # Flag to identify the section being processed
     current_section = None
 
@@ -23,7 +23,10 @@ def unansques(response):
                     open_ended_questions.append(line.strip())
 
     comb = unanswered_questions + open_ended_questions
-    return comb
+
+    for question in comb:
+        total_question.append(question.split('.')[1])
+    return total_question
     
 def questions_dict(self, unanswered_questions):
         ques_dict = {}

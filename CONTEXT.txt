@@ -1,21 +1,67 @@
-Job Role: data engineer
+Job Role: Data Engineer
 
-job_description: What is Baton?     Baton is the Silicon Valley based technology innovation lab for Ryder, a Fortune 500 logistics company that owns 260k trucks and manages $7.4B of freight.     In September of 2022 Ryder acquired Baton to be their technology innovation lab. Prior to Ryder, Baton was a venture backed start up that was voted the #4 most disruptive company in freight (Amazon was #3)!     The problem we're solving     Our mission is to eliminate waste in supply chain by creating a digital platform that uses AI to improve how freight is planned.     There are 500 million hours wasted in trucking each year, over 3 billion gallons of fuel wasted per year from trucks idling, and 1 in 5 trucks on the road driving empty at any given point. This has a massive impact on the environment, the lives of millions of drivers, and ultimately, the cost of transportation that we all pay. Baton is fixing that.     Basic Job Details     Location: Hayes Valley, San Francisco, CA Office days: Monday, Wednesday, Friday Work from home days: Tuesday, Thursday Job type: full time     ROLE     Data Engineer     LOCATION     Hayes Valley, San Francisco, CA     Description     We are seeking a highly motivated and skilled data engineer to join our team. The data engineer will be responsible for designing, developing, and maintaining our company's data infrastructure. This includes building data pipelines, designing data models, and integrating data from various sources. The ideal candidate has experience with big data technologies, database management, and programming languages such as Python and SQL.     Responsibilities     Design and develop data processing pipelines using Flink and Kafka for real-time data ingestion, processing, and analysis. Collaborate with cross-functional teams to identify and resolve data-related issues and provide data-related technical guidance and support. Collaborate with data analysts, data scientists, and other stakeholders to identify data needs and requirements Continuously evaluate and recommend new technologies and tools to improve data processing and analysis. Keep up-to-date with industry trends and best practices in data engineering and apply them to the development and maintenance of data processing pipelines and infrastructure.     Basic Qualifications     Bachelor's or Master's degree in Computer Science, Information Systems, or a related field 3+ years of experience in data engineering or a related field Strong programming skills in Python, SQL, and other relevant languages Experience with big data technologies such as Hadoop, Spark, and Kafka Proficiency in database management, data warehousing, and ETL processes     Nice to have:     Familiarity with cloud computing platforms such as AWS, Azure, or Google Cloud Platform Interest in the freight and logistics space     THE PERKS     Competitive salary and bonus structure Hybrid work schedule 401k with matching Medical, Dental, and Vision health coverage Employee Stock Purchase Program Collaborative, fun, and tech forward office in Hayes Valley (San Francisco)     Compensation Range:     The annual base salary range for this position is $157,000 - $218,000*. Compensation will vary based on factors including skill level, proficiencies, transferable knowledge, and experience. In addition to base salary, Baton full-time employees are eligible for an annual performance bonus.     Why you should join Have immediate impact With Ryder's existing customer base of 50,000+ companies and an internal headcount of 43,000 the scale and impact of our products will be large and far reaching, from day one. Opportunity to grow and lead in a fortune 500 company You'll get to work in a rapidly-growing, startup-like environment, while having the stability and backing of Ryder and their full executive team. Creative, fast paced environment to solve impactful problems in supply chain We're going to design completely new tools for an industry that hasn't been rethought in decades. And to do this we need people who think differently.     The Perks     Annual bonus and Long Term Incentive Plan participation 401k with company match Medical, dental and vision benefits Employee stock purchase program (15% discount to market value) Hyper stable, publicly traded enterprise Voir plus
+job_description: Role Data Engineer
+
+Location â€“ Woonsocket RI
+
+Mandatory Technical / Functional Skills Strong skills in Python Programming
+
+Experience with Pyspark and Hive
+Strong Experience in SQL
+Experience with data pipeline and workflow management tool: Airflow, Azure DataFlow etc. DataBricks Service (on any cloud, preferably Azure)
+Experience with cloud services & Data Analytics tools : Databricks, snowflake, Azure ADLS Gen2, Azure/GCP
+Pandas Dataframes and UDF knowledge
+Snowflake Experience (may not be expert)
+To work on data engineering solutions to leverage best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers
+
+Roles and responsibility
+
+Support analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Support and monitor the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Pyspark and Azure â€˜big dataâ€™ technologies.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Developing, supporting and monitoring â€˜big dataâ€™ data pipelines.
+Work closely with client to discover needs, collect appropriate data, and deliver valuable data products.
+Provide valuable insights from data sets quickly.
+Communicate complex findings and ideas in plain language and visualizations that is friendly to business and operational audiences.
+
+Skills-
+
+Azure, Databricks, snowflake, Azure Data lake Gen2, Python, PySpark, SQL, Orchestration tools like Airflow
+Retail (Pharmacy, Healthcare business) domain Experience is added advantage. Excellent communication skill
+
+Total experience in required skill (years) Experience : 5-7 years
+
+Voir plus
 
 Answered Questions:
-    '''1. Role Definition: The role is for a Data Engineer at Baton, a technology innovation lab for Ryder. The Data Engineer will be responsible for designing, developing, and maintaining the company's data infrastructure. This includes building data pipelines, designing data models, and integrating data from various sources.
-2. Key Responsibilities: The top responsibilities for this role are: Designing and developing data processing pipelines using Flink and Kafka for real-time data ingestion, processing, and analysis; Collaborating with cross-functional teams to identify and resolve data-related issues and provide data-related technical guidance and support; Continuously evaluating and recommending new technologies and tools to improve data processing and analysis.
-3. Experience: The candidate should have 3+ years of experience in data engineering or a related field, strong programming skills in Python, SQL, and other relevant languages, and experience with big data technologies such as Hadoop, Spark, and Kafka.
-4. Education and Certifications: A Bachelor's or Master's degree in Computer Science, Information Systems, or a related field is required.
-5. Essential Skills: Strong programming skills in Python, SQL, and other relevant languages, experience with big data technologies such as Hadoop, Spark, and Kafka, and proficiency in database management, data warehousing, and ETL processes.
-6. Good-to-have Skills: Familiarity with cloud computing platforms such as AWS, Azure, or Google Cloud Platform and interest in the freight and logistics space.
-7. Growth Opportunities: The role offers the opportunity to grow and lead in a rapidly-growing, startup-like environment within a Fortune 500 company.
-8. Tools and Software: The candidate should be familiar with big data technologies such as Hadoop, Spark, and Kafka, and cloud computing platforms such as AWS, Azure, or Google Cloud Platform.
-9. Budget and Compensation: The annual base salary range for this position is $157,000 - $218,000. In addition to base salary, Baton full-time employees are eligible for an annual performance bonus.
-10. Technical Job Functions: The technical job functions related to this role include designing and developing data processing pipelines, database management, data warehousing, and ETL processes.
-11. Project and Task Management: Not Provided
-12. Seniority Level: Mid-level, hands-on
-13. Work Environment: Hybrid (partly remote)
-14. Acceptable Work Location/s: Hayes Valley, San Francisco, CA
-15. Specific Industry: Technology/Logistics'''
+    1. Role Definition: The role of a Data Engineer in this organization involves working on data engineering solutions, leveraging best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers. The role also involves supporting and monitoring the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Pyspark and Azure ‘big data’ technologies.
+    2. Key Responsibilities: The top responsibilities for this role include: 
+        - Supporting analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+        - Working with data and analytics experts to strive for greater functionality in our data systems.
+        - Working with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+    3. Experience: The essential experiences for this role include: 
+        - Strong skills in Python Programming
+        - Experience with Pyspark and Hive
+        - Strong Experience in SQL
+        - Experience with data pipeline and workflow management tool: Airflow, Azure DataFlow etc.
+        - Experience with cloud services & Data Analytics tools : Databricks, snowflake, Azure ADLS Gen2, Azure/GCP
+    4. Education and Certifications: Not Provided
+    5. Must have skills: The essential skills for this role include: 
+        - Python Programming
+        - Pyspark and Hive
+        - SQL
+        - Data pipeline and workflow management tool: Airflow, Azure DataFlow etc.
+    6. Good-to-have skills: The preferred skills for this role include: 
+        - Experience with Databricks, snowflake, Azure ADLS Gen2, Azure/GCP
+        - Retail (Pharmacy, Healthcare business) domain Experience
+    7. Growth Opportunities: Not Provided
+    8. Tools and Software: The candidate should be familiar with tools and software such as Azure, Databricks, snowflake, Azure Data lake Gen2, Python, PySpark, SQL, Orchestration tools like Airflow.
+    9. Budget and Compensation: Not Provided
+    10. Technical Job Functions: The technical job functions related to this role include developing, supporting and monitoring ‘big data’ data pipelines.
+    11. Project and Task Management: Not Provided
+    12. Seniority Level: The seniority level of this role is Mid-level, hands-on, based on the required experience of 5-7 years.
+    13. Work Environment: Not Provided
+    14. Acceptable Work Location/s: The acceptable work location is Woonsocket RI.
+    15. Specific Industry: The role belongs to the Retail (Pharmacy, Healthcare business) industry.
 
