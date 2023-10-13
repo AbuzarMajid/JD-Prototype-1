@@ -1,67 +1,42 @@
-Job Role: Data Engineer
-
-job_description: Role Data Engineer
-
-Location â€“ Woonsocket RI
-
-Mandatory Technical / Functional Skills Strong skills in Python Programming
-
-Experience with Pyspark and Hive
-Strong Experience in SQL
-Experience with data pipeline and workflow management tool: Airflow, Azure DataFlow etc. DataBricks Service (on any cloud, preferably Azure)
-Experience with cloud services & Data Analytics tools : Databricks, snowflake, Azure ADLS Gen2, Azure/GCP
-Pandas Dataframes and UDF knowledge
-Snowflake Experience (may not be expert)
-To work on data engineering solutions to leverage best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers
-
-Roles and responsibility
-
-Support analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
-Support and monitor the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Pyspark and Azure â€˜big dataâ€™ technologies.
-Work with data and analytics experts to strive for greater functionality in our data systems.
-Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
-Developing, supporting and monitoring â€˜big dataâ€™ data pipelines.
-Work closely with client to discover needs, collect appropriate data, and deliver valuable data products.
-Provide valuable insights from data sets quickly.
-Communicate complex findings and ideas in plain language and visualizations that is friendly to business and operational audiences.
-
-Skills-
-
-Azure, Databricks, snowflake, Azure Data lake Gen2, Python, PySpark, SQL, Orchestration tools like Airflow
-Retail (Pharmacy, Healthcare business) domain Experience is added advantage. Excellent communication skill
-
-Total experience in required skill (years) Experience : 5-7 years
-
-Voir plus
-
+Question:  Growth Opportunities: Not Provided
+Answer: Growth Opportunities are quite good, You can become line manager within an year
+Question:  Budget and Compensation: Not Provided
+Answer: 200k per annual plus medical benefits of family
+Question:  Technical Job Functions: Not Provided
+Answer: ML Engineer
+Question:  Project and Task Management: Not Provided
+Answer: Project management is required as you will head the team of interns
+Question:  Seniority Level: Not Provided'''
+Answer: Mid Senior
+Question:  Can you elaborate on the specific ML libraries (TensorFlow, PyTorch, Scikit-Learn) that the candidate will be working with?
+Answer: Tensor Flow, Pytorc
+Question:  What specific tasks will the candidate be performing related to CI/CD pipelines and containerization (Docker / Kubernetes)?
+Answer: No tasks related to it
+Question:  Can you provide more details on the healthcare compliance (HIPAA, HL7, etc
+Answer: Not yet but will give as we move further
+Question:  Growth Opportunities: Not Provided
+Answer: Growth Opportunities are quite good, You can become line manager within an year
+Question:  Budget and Compensation: Not Provided
+Answer: 200k per annual plus medical benefits of family
+Question:  Technical Job Functions: Not Provided
+Answer: ML Engineer
+Question:  Project and Task Management: Not Provided
+Answer: Project management is required as you will head the team of interns
+Question:  Seniority Level: Not Provided'''
+Answer: Mid Senior
+Question:  Can you elaborate on the specific ML libraries (TensorFlow, PyTorch, Scikit-Learn) that the candidate will be working with?
+Answer: Tensor Flow, Pytorc
+Question:  What specific tasks will the candidate be performing related to CI/CD pipelines and containerization (Docker / Kubernetes)?
+Answer: No tasks related to it
+Question:  Can you provide more details on the healthcare compliance (HIPAA, HL7, etc
+Answer: Not yet but will give as we move further
 Answered Questions:
-    1. Role Definition: The role of a Data Engineer in this organization involves working on data engineering solutions, leveraging best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers. The role also involves supporting and monitoring the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Pyspark and Azure ‘big data’ technologies.
-    2. Key Responsibilities: The top responsibilities for this role include: 
-        - Supporting analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
-        - Working with data and analytics experts to strive for greater functionality in our data systems.
-        - Working with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
-    3. Experience: The essential experiences for this role include: 
-        - Strong skills in Python Programming
-        - Experience with Pyspark and Hive
-        - Strong Experience in SQL
-        - Experience with data pipeline and workflow management tool: Airflow, Azure DataFlow etc.
-        - Experience with cloud services & Data Analytics tools : Databricks, snowflake, Azure ADLS Gen2, Azure/GCP
-    4. Education and Certifications: Not Provided
-    5. Must have skills: The essential skills for this role include: 
-        - Python Programming
-        - Pyspark and Hive
-        - SQL
-        - Data pipeline and workflow management tool: Airflow, Azure DataFlow etc.
-    6. Good-to-have skills: The preferred skills for this role include: 
-        - Experience with Databricks, snowflake, Azure ADLS Gen2, Azure/GCP
-        - Retail (Pharmacy, Healthcare business) domain Experience
-    7. Growth Opportunities: Not Provided
-    8. Tools and Software: The candidate should be familiar with tools and software such as Azure, Databricks, snowflake, Azure Data lake Gen2, Python, PySpark, SQL, Orchestration tools like Airflow.
-    9. Budget and Compensation: Not Provided
-    10. Technical Job Functions: The technical job functions related to this role include developing, supporting and monitoring ‘big data’ data pipelines.
-    11. Project and Task Management: Not Provided
-    12. Seniority Level: The seniority level of this role is Mid-level, hands-on, based on the required experience of 5-7 years.
-    13. Work Environment: Not Provided
-    14. Acceptable Work Location/s: The acceptable work location is Woonsocket RI.
-    15. Specific Industry: The role belongs to the Retail (Pharmacy, Healthcare business) industry.
+    1. Role Definition: The role is for a Full Stack Developer. The candidate will be responsible for designing user interfaces, building scalable backend systems, and working on a wide range of projects. They should be passionate about web development, have a strong understanding of both frontend and backend technologies, and enjoy collaborating in a dynamic environment.
+    2. Key Responsibilities: The top responsibilities for this role are frontend development, backend development, database management, server configuration and deployment, version control, testing and quality assurance, troubleshooting and debugging, and collaboration with cross-functional teams.
+    3. Experience: The candidate should have proven experience as a Full Stack Developer or similar role, proficiency in both frontend and backend technologies, strong knowledge of web development frameworks and libraries, experience with RESTful APIs and web services, familiarity with database design and management, proficiency in version control systems (e.g., Git), and knowledge of cloud computing and deployment tools.
+    4. Education and Certifications: A Bachelor's or Master's degree in computer science, software engineering, or a related field is required.
+    5. Essential Skills: The essential skills for this role are proficiency in both frontend and backend technologies, strong knowledge of web development frameworks and libraries, proficiency in version control systems (e.g., Git), and knowledge of cloud computing and deployment tools.
+    6. Good-to-have Skills: Good-to-have skills for this role are experience with RESTful APIs and web services, and familiarity with database design and management.
+    8. Tools and Software: The candidate should be familiar with modern web technologies such as HTML5, CSS3, and JavaScript frameworks (e.g., React, Angular, Vue.js), backend technologies like Node.js, Python, Ruby on Rails, or Java, relational and NoSQL databases (e.g., MySQL, MongoDB, PostgreSQL), cloud platforms (e.g., AWS, Azure, Google Cloud), and version control systems (e.g., Git).
+    14. Acceptable Work Location/s: The job location is not specified in the job description.
 
