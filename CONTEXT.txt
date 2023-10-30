@@ -1,42 +1,14 @@
-Question:  Growth Opportunities: Not Provided
-Answer: Growth Opportunities are quite good, You can become line manager within an year
-Question:  Budget and Compensation: Not Provided
-Answer: 200k per annual plus medical benefits of family
-Question:  Technical Job Functions: Not Provided
-Answer: ML Engineer
-Question:  Project and Task Management: Not Provided
-Answer: Project management is required as you will head the team of interns
-Question:  Seniority Level: Not Provided'''
-Answer: Mid Senior
-Question:  Can you elaborate on the specific ML libraries (TensorFlow, PyTorch, Scikit-Learn) that the candidate will be working with?
-Answer: Tensor Flow, Pytorc
-Question:  What specific tasks will the candidate be performing related to CI/CD pipelines and containerization (Docker / Kubernetes)?
-Answer: No tasks related to it
-Question:  Can you provide more details on the healthcare compliance (HIPAA, HL7, etc
-Answer: Not yet but will give as we move further
-Question:  Growth Opportunities: Not Provided
-Answer: Growth Opportunities are quite good, You can become line manager within an year
-Question:  Budget and Compensation: Not Provided
-Answer: 200k per annual plus medical benefits of family
-Question:  Technical Job Functions: Not Provided
-Answer: ML Engineer
-Question:  Project and Task Management: Not Provided
-Answer: Project management is required as you will head the team of interns
-Question:  Seniority Level: Not Provided'''
-Answer: Mid Senior
-Question:  Can you elaborate on the specific ML libraries (TensorFlow, PyTorch, Scikit-Learn) that the candidate will be working with?
-Answer: Tensor Flow, Pytorc
-Question:  What specific tasks will the candidate be performing related to CI/CD pipelines and containerization (Docker / Kubernetes)?
-Answer: No tasks related to it
-Question:  Can you provide more details on the healthcare compliance (HIPAA, HL7, etc
-Answer: Not yet but will give as we move further
-Answered Questions:
-    1. Role Definition: The role is for a Full Stack Developer. The candidate will be responsible for designing user interfaces, building scalable backend systems, and working on a wide range of projects. They should be passionate about web development, have a strong understanding of both frontend and backend technologies, and enjoy collaborating in a dynamic environment.
-    2. Key Responsibilities: The top responsibilities for this role are frontend development, backend development, database management, server configuration and deployment, version control, testing and quality assurance, troubleshooting and debugging, and collaboration with cross-functional teams.
-    3. Experience: The candidate should have proven experience as a Full Stack Developer or similar role, proficiency in both frontend and backend technologies, strong knowledge of web development frameworks and libraries, experience with RESTful APIs and web services, familiarity with database design and management, proficiency in version control systems (e.g., Git), and knowledge of cloud computing and deployment tools.
-    4. Education and Certifications: A Bachelor's or Master's degree in computer science, software engineering, or a related field is required.
-    5. Essential Skills: The essential skills for this role are proficiency in both frontend and backend technologies, strong knowledge of web development frameworks and libraries, proficiency in version control systems (e.g., Git), and knowledge of cloud computing and deployment tools.
-    6. Good-to-have Skills: Good-to-have skills for this role are experience with RESTful APIs and web services, and familiarity with database design and management.
-    8. Tools and Software: The candidate should be familiar with modern web technologies such as HTML5, CSS3, and JavaScript frameworks (e.g., React, Angular, Vue.js), backend technologies like Node.js, Python, Ruby on Rails, or Java, relational and NoSQL databases (e.g., MySQL, MongoDB, PostgreSQL), cloud platforms (e.g., AWS, Azure, Google Cloud), and version control systems (e.g., Git).
-    14. Acceptable Work Location/s: The job location is not specified in the job description.
-
+1. Role Definition: The Machine Learning Engineer will work with multiple teams of data scientists, analysts, and visualization experts to solve high complexity business problems. They will use quantitative analytic methods, data management, visualization, and programming skills to drive data-driven decisions. They will research, model, implement, and validate algorithms to analyze diverse sources of data to achieve targeted outcomes.
+2. Key Responsibilities: 1. Work with large, structured, and unstructured datasets. 2. Use Big Data tools to build data analytics solutions. 3. Build machine learning and Artificial Intelligence (AI) models from development through testing and validation. 4. Design rich data visualizations to communicate complex ideas to business leaders and executives. 5. Draw insights from data to make quick, well-informed decisions with available information.
+3. Experience: The candidate should have two (2) years of working experience in Machine Learning, Deep Learning, or Artificial Intelligence, two (2) years of working programming experience in Python, Ruby, R, Matlab, Scala, or Java, and one (1) year of working experience in Big Data Technology in Hadoop, Hive, Impala, Spark, or Kafka.
+4. Education and Certifications: The candidate should have a Bachelor's degree and six (6) years of experience, or a Master’s degree and four (4) years of experience, or a Ph.D. and two (2) years of experience in a quantitative/analytical/STEM field.
+5. Tools and Software: The candidate should be familiar with Big Data tools (Hadoop, Spark, H2O, CDSW, Domino Labs, etc.), Python, Ruby, R, Matlab, Scala, Java, Hadoop, Hive, Impala, Spark, Kafka, and visualization tools like Power Business Intelligence (BI), Tableau.
+6. Essential and Good-to-have skills: Essential skills include strong business acumen, deep understanding of statistical and predictive modeling concepts, machine learning approaches, clustering and classification techniques, and recommendation and optimization algorithms. Good-to-have skills include experience in libraries such as TensorFlow, Pytorch, or Keras, and knowledge in Google Analytics and/or Adobe Digital.
+8. Budget and Compensation: The minimum job range target is $76,032.50 USD with a median of $109,310.00 USD. This job is not incentive eligible but there is an opportunity to participate in the Long Term Incentive Plan.
+7. Growth Opportunities: Very impressive
+9. Project and Task Management: Yess needed
+Based on the job description, it seems that the candidate should have a strong background in machine learning, data analysis, and programming. However, I noticed that there's no explicit mention of the candidate's ability to deploy machine learning models into production systems. Can you confirm if this is a necessary skill for the role?: Yes it is needed
+Great! In that case, I would recommend adding a requirement for experience in deploying machine learning models into production systems. This could include familiarity with tools and platforms used for deployment, as well as the ability to monitor and optimize the performance of deployed models. Would you like assistance in crafting this requirement?: Yes it is needed as it is a mangerial level role
+Perfect! In that case, could you specify the level of experience or any specific tools and platforms the candidate should be familiar with for deploying machine learning models into production systems?: yes 
+Great! Could you please specify which tools and platforms the candidate should be familiar with for deploying machine learning models into production systems?: GCP would be okay
+Excellent! In that case, would you like to include a requirement for experience with deploying machine learning models using Google Cloud Platform (GCP) in the job description?: not specific but he should know how to deploy a model on GCP
