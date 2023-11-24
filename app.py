@@ -140,7 +140,7 @@ Here are the instructions for unanswered_questions key:
 For any of the answer not given to the Pertinent Questions in Answered Questions, list them here using this format: question number, quesiton title, question
 
 '''
-llm = ChatOpenAI(temperature=0, model="gpt-4", max_tokens=1500)
+llm = ChatOpenAI(temperature=0, model="gpt-4", max_tokens=1500, openai_api_key=API_KEY)
 def display_messages(messages):
     chat_text = ""
     for message in messages:
@@ -232,7 +232,7 @@ if role_title and job_description:
     if st.session_state.intelligent_questions:
         if st.button('Job Role Specific Questions'):
             st.write('Generating Job Specific Questions')
-            llm_query = ChatOpenAI(model='gpt-4', temperature=0.0)
+            llm_query = ChatOpenAI(model='gpt-4', temperature=0.0, openai_api_key=API_KEY)
             print('Generating Query')
             query  = llm_query.predict(f"""
             Role : You are a human resources agent who specializes in cantidates in the Artificial Intellegence, Machine Learning, and Data Engineering space.
@@ -336,7 +336,7 @@ if role_title and job_description:
 
     if st.session_state.entry_1:
         if st.button("GENERATE FINAL JOB DESCRIPTION", key = "gen2"):
-                llm1 = ChatOpenAI(model='gpt-4',temperature=0, max_tokens=1500)
+                llm1 = ChatOpenAI(model='gpt-4',temperature=0, max_tokens=1500, openai_api_key=API_KEY)
                 Final_Response = llm1.predict(f"""Role: You are HopHR Agent, a recruiting expert for talent in Machine Learning, Artificial Intelligence, and Data Science. You are creating the final draft of a Job Description for a hiring manager.
 Task: Using the HopHR Guidelines, you will take Job Title, Job Level,  User Answers, and Parsed Job Description to generate a professional Job Description for the hiring manager.
 Job Title: {role_title}
