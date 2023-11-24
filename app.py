@@ -21,7 +21,7 @@ pinecone.init(
 	environment='asia-northeast1-gcp'      
 )
 index = pinecone.Index('skills-database')
-llm = ChatOpenAI(model='gpt-4', temperature=0.0)
+llm = ChatOpenAI(model='gpt-4', temperature=0.0, openai_api_key=API_KEY)
 # memory = ConversationBufferMemory(max_token_limit=2000, llm=llm)
 
 # chat_llm_chain = ConversationChain(
